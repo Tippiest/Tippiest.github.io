@@ -25,3 +25,5 @@
 - Replace the `href` attribute values to your profile URLs for all anchors.
 - Remove the div with class `footer__github-buttons`.
 
+To view go to:
+tippiest.github.io
